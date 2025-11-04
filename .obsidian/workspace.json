@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Key notes/Consensus-ism elevator pitch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Consensus-ism elevator pitch"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Key notes/Consensus-ism elevator pitch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Consensus-ism elevator pitch"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Key notes/Consensus-ism elevator pitch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Consensus-ism elevator pitch"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "5ae73e89badae44e",
   "lastOpenFiles": [
+    "source/content/index.md",
+    "source/content/1. Key notes/Consensus-ism elevator pitch.md",
     "source/content/🪵 Log per day.md",
     "source/content/📎 Files/Images/misc/Ship It Week-1755697716915.webp",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Ship It Week.md",
@@ -192,7 +194,6 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
     "source/content/Other, quick-add/Excited to be employed as a (self-described) Kegan 4.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
-    "source/content/index.md",
     "source/content/Other, quick-add/To be a boomer.md",
     "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
