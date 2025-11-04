@@ -1,0 +1,2 @@
+- [[The core false belief → "Something I'm feeling is bad to feel"]]
+- 

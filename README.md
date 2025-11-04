@@ -1,1 +1,1 @@
-https://www.alexislearning.me/learning-to-think/
+https://www.alexislearning.me/consensusism
