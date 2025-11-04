@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Consensus-ism/Consensus-ism elevator pitch.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consensus-ism elevator pitch"
+              "title": "index"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Consensus-ism/Consensus-ism elevator pitch.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Consensus-ism elevator pitch"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Consensus-ism/Consensus-ism elevator pitch.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Consensus-ism elevator pitch"
+              "title": "Outline of index"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "0834772e4ef7efeb",
   "lastOpenFiles": [
-    "source/content/index.md",
+    "source/docs/plugins/index.md",
     "source/content/1. Consensus-ism/Consensus-ism elevator pitch.md",
+    "source/content/index.md",
     "source/content/2. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
     "source/CODE_OF_CONDUCT.md",
     "source/README.md",
@@ -248,7 +249,6 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Why doesn't transmissionism work?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Transmissionism.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Visual notes are a form of active learning.md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Aha, maybe I'm a \"professional meta-cognitionist\", lol.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?",
     "source/content/1. Open Questions/2. Kindness ❤️",
