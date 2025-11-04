@@ -1,3 +1,5 @@
+- 2025-11-04
+
 - The core claim:
 > In any moment, you have access to all the information you need in order to make "the next right action"
 - Things can feel one of two ways:
