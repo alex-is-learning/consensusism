@@ -21,3 +21,4 @@
 - If I have resistance to something, it can make sense to push through and do it anyway
 - Resistance and badness is fine, and I can power through
 # 3. I can't rely on my feelings
+- I can't trust my feelings/cues (impulsive/can't be trusted/is selfish)
