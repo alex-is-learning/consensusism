@@ -6,3 +6,5 @@
 - Very similar, if not the same → "⁠There’s something wrong (with this moment, with me)_"
 - Aversion, second dart, ego-type stuff
 	- [[Second Darts]]
+## Therefore "I must disown some feelings, not look at them, push them away"
+- ![[sasha steelman.png]]
