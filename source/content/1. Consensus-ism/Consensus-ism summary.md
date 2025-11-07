@@ -8,20 +8,26 @@
 - If something feels transparently correct, go ahead and do it, until a feeling of off-ness appears, at which point, pause and reassess
 - If something feels grind-y and off, then it's not the right thing to do - pause and reassess
 - This is uhh, kind of the whole thing?
+
+- Make decisions where:
+	1. You know you're making the right decision in that moment
+	2. You're doing what feels best
+
+- ![[malcolm pick 0 or 1 1.png]]
+
 # So like, what's the problem?
 - People are accustomed to making themselves do things that feel grind-y and off
 - People think they *have* to do things that are grind-y and off. "If I only do things that feel good, then won't I just like, play video-games all the time?"
 ## Distrusting your sense data
 - There's a really great David Chapman clip ([here]([https://x.com/Meaningness/status/1886512455289069669/video/1](https://x.com/Meaningness/status/1886512455289069669/video/1 "https://x.com/Meaningness/status/1886512455289069669/video/1"))) about how the West (in particular, Western philosophy, with Decartes as the prime example) *begins* from a place of distrust of our sense data, and how paranoid and weird this is
-	- *E.g., "I think, therefore I am", where Decartes decided that we can't trust our sense data because a demon might be making us hallucinate that we are e.g. in this room, and the only thing we can trust is our thoughts*
-- However, Chapman points out that this is *really weird*, because our sense data is pretty much always very trustworthy, and it's our thoughts that mislead us like, all the frickin time. We don't have control over which thoughts appear (try meditating for 10 minutes and report back), so Decartes could have easily instead said that an evil demon gives us intrusive and pointless thoughts, and it's our sense data which is rock-solid and congruent
+- Chapman points out that this is *really weird*, because our sense data is pretty much always very trustworthy, and it's our thoughts that mislead us like, all the frickin time. We don't have control over which thoughts appear (try meditating for 10 minutes and report back), so Decartes could have easily instead said that an evil demon gives us intrusive and pointless thoughts, and it's our sense data which is rock-solid and congruent
 - So anyway, by default we're used to distrusting the signal in our body that says "I don't want to do this!", and instead power through and force ourself to do a thing
 - There's a background belief that emotions are just random things to be ignored, basically. That they don't contain much signal.
 	- Vs e.g. in people who no longer have the emotional part of their brain, they can no longer make rational decisions, and essentially blow up their lives (e.g. see the book ["Decartes' Error"](https://en.wikipedia.org/wiki/Descartes%27_Error))
 # What goes wrong when you distrust your sense data
 - So, you think you need to reply to an email right now
 - However, it feels bad to do; there's resistance in your body, a feeling of grind-y off-ness
-- You fight yourself, you feel sense and unhappy, you feel like you're at war with yourself
+- You fight yourself, you feel tense and unhappy, you feel like you're at war with yourself
 - Eventually you maybe force yourself to write the email, or maybe you procrastinate for another few days
 ## Alternative approach
 - Notice "huh, the idea of replying to my emails right now feels bad"

@@ -1,4 +1,7 @@
+- **Doing the things which satisfy all the current internal cues results in feeling really satisfied, clear-headed; as happy as we can feel**
+- Also just feeling confident that until and unless the situation changes, what you’re doing is the best choice you could be making
 - ![[flow state2.jpg]]
+- ![[Pasted image 20251107102803.png]]
 - ![[flow state - malcolm.jpeg]]
 
 # More controversial

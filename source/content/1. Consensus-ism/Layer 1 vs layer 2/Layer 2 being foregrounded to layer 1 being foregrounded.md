@@ -1,0 +1,2 @@
+- ![[layer 1 and layer 2.png]]
+	- From imagination-foregrounding life to perceptions-foregrounding life

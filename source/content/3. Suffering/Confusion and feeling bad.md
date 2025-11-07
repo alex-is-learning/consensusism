@@ -3,3 +3,6 @@
 - ![[confusion and feeling bad.jpg]]
 	- From [this tweet](https://twitter.com/dthorson/status/1756373621721747968/photo/1)
 - ![[brainfog.png]]
+## Trapped in layer 2 
+- [[Layer 1 and layer 2]]
+- ![[brent wrong with you.png]]

@@ -1,0 +1,3 @@
+- [[Layer 1 (perceptions, ultimate reality)]]
+- [[Layer 2 (imaginations)]]
+- [[Layer 2 being foregrounded to layer 1 being foregrounded]]

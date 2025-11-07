@@ -1,0 +1,8 @@
+- The ultimate false belief is "something I'm feeling/experiencing is bad to feel/experience"
+- The truth is that all feelings are good
+	- There isn't a separate "you" that the feeling/experience is *happening to*, there's just experience
+	- You can’t be something different from your experience
+	- So there’s no Managing Things that’s possible
+
+
+- ![[Pasted image 20251107100625.png]]
