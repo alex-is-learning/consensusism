@@ -6,3 +6,9 @@
 
 
 - ![[Pasted image 20251107100625.png]]
+
+# Making thoughts thinkable
+- Unlike [[The core false belief → "Something I'm feeling is bad to feel"]]:
+- ![[lulie - make thoughts thinkable.png]]
+# Accepting all feelings
+- ![[non-coercion confusion.png]]

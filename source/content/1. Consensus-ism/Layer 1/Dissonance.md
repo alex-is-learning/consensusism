@@ -5,3 +5,6 @@
 	2. Dissonance → Grind-y, off, bad
 - If something feels transparently correct, go ahead and do it, until a feeling of off-ness appears, at which point, pause and reassess
 - If something feels grind-y and off, then it's not the right thing to do - pause and reassess
+
+
+- ![[consonance vs dissonance.png]]

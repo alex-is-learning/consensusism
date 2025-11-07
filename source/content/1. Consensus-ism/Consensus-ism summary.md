@@ -13,8 +13,6 @@
 	1. You know you're making the right decision in that moment
 	2. You're doing what feels best
 
-- ![[malcolm pick 0 or 1 1.png]]
-
 # So like, what's the problem?
 - People are accustomed to making themselves do things that feel grind-y and off
 - People think they *have* to do things that are grind-y and off. "If I only do things that feel good, then won't I just like, play video-games all the time?"

@@ -8,3 +8,6 @@
 	- [[Second Darts]]
 ## Therefore "I must disown some feelings, not look at them, push them away"
 - ![[sasha steelman.png]]
+
+
+![[Pasted image 20251107121534.png]]

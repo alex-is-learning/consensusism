@@ -7,3 +7,6 @@
 - If something feels grind-y and off, then it's not the right thing to do - pause and reassess
 
 - [[One unitary preference (no parts)]] ("notice which course of action satisfies all the feelings we’re having")
+
+
+- ![[consonance vs dissonance.png]]
