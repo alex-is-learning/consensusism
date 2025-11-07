@@ -1,7 +1,13 @@
+# Deep alignment
+- ![[lilue want + how.png]]
+- ![[jonny re schmact.png]]
 # Fall in love
 - ![[sasha fall in love.png]]
+- ![[alexandra flourishing.png]]
+- ![[malcolm - come alive.png]]
 # 10x productive
 - ![[sasha 10x productive.png]]
+- ![[mark genius.png]]
 # Following aliveness feels great
 - ![[michael aliveness.png]]
 	- https://x.com/m_ashcroft/status/1499865481028714497
@@ -10,7 +16,7 @@
 - When you release this conflict, it’s not that you move on to having different, but equivalent, conflicts. It’s that these knots of self-conflict simply disappear. That energy stops being expended. The self at the center of your perception, which was so muddy and thick and tangled, becomes clearer, more prismatic. The idea that you are composed of some sort of special, unique pollution, separate from everything else, becomes laughable. In place of that delusion, something else can be realized. When it appears, you see why people did such a bad job of describing it to you previously, although they may have been trying hard. In the words of Wittgenstein: “There are, indeed, things that cannot be put into words. They make themselves manifest. They are what is mystical.”
 # Transition to clean fuel
 - ![[dirty to clean fuel.png]]
-# Honest preferences, integrity
+- ![[tyler - clean fun fuel.png]]# Honest preferences, integrity
 - ![[honest preferences.png]]
 - ![[boundaries.png]]
 - ![[cucked.png]]

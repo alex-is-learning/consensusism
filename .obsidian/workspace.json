@@ -20,107 +20,8 @@
               "icon": "lucide-file",
               "title": "Consensus"
             }
-          },
-          {
-            "id": "3fe1d1c5de869adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Consensus-ism/Flow state.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flow state"
-            }
-          },
-          {
-            "id": "8455fe95759faf23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Consensus-ism/Layer 1/Layer 1 (perceptions, ultimate reality).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layer 1 (perceptions, ultimate reality)"
-            }
-          },
-          {
-            "id": "bd8a8c041a94740e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/3. Suffering/Confusion and feeling bad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Confusion and feeling bad"
-            }
-          },
-          {
-            "id": "2c6307a0529b06e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Consensus-ism/Consensus-ism summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Consensus-ism summary"
-            }
-          },
-          {
-            "id": "938b1c3d133f1d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/6. Appendix/People working on similar things.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "People working on similar things"
-            }
-          },
-          {
-            "id": "e08a5ff86d5d9fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/3. Suffering/Tension and avoidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tension and avoidance"
-            }
-          },
-          {
-            "id": "090eb18cc4886d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Benefits/Happiness and productivity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Happiness and productivity"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Benefits/Happiness and productivity.md",
+                "file": "source/content/1. Consensus-ism/Layer 1/Consensus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Happiness and productivity"
+              "title": "Backlinks for Consensus"
             }
           },
           {
@@ -249,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Benefits/Happiness and productivity.md",
+                "file": "source/content/1. Consensus-ism/Layer 1/Consensus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Happiness and productivity"
+              "title": "Outline of Consensus"
             }
           }
         ]
@@ -277,20 +178,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "596b2efad1754cde",
   "lastOpenFiles": [
+    "source/content/Images/alexandra flourishing.png",
+    "source/content/5. Benefits/Happiness and productivity.md",
+    "source/content/Images/tyler - clean fun fuel.png",
+    "source/content/Images/mark genius.png",
+    "source/content/Images/malcolm - come alive.png",
+    "source/content/Images/lilue want + how.png",
+    "source/content/Images/jonny re schmact.png",
     "source/content/Images/dropping fear and tension.png",
     "source/content/Images/non-coervice prod.png",
     "source/content/Images/boundaries.png",
-    "source/content/5. Benefits/Happiness and productivity.md",
     "source/content/Images/integrity.png",
-    "source/content/Images/productivity triangle.png",
-    "source/content/Images/cucked.png",
-    "source/content/Images/honest preferences.png",
-    "source/content/Images/rival voices get out the car.png",
-    "source/content/Images/dirty to clean fuel.png",
-    "source/content/Images/michael aliveness.png",
-    "source/content/Images/sasha 10x productive.png",
     "source/content/3. Suffering/Tension and avoidance.md",
     "source/content/5. Benefits",
     "source/content/3. Suffering/How does this connect with my suffering?.md",
