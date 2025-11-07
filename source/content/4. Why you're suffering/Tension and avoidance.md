@@ -1,5 +1,6 @@
 # Feelings we disown
 - The ultimate banger 👇
+- "The steelman of 'everyone has trauma'..."
 - ![[Pasted image 20250104155021.png]]
 # Undoing the blocky things
 - ![[mark balloon.png]]
@@ -10,9 +11,10 @@
 # Experience the body
 - ![[somatic therapist.png]]
 # Tense your body for 20 years
+- Romeo Stevens
 - ![[romeo tense your body.png]]
-- *There's also the classic Romeo tweet re: tensing your body into the ice-cream shape which I can't find right now as I've blocked twitter apart from 17:00-17:30 every day*
-
+- ![[Pasted image 20251107175356.png]]
+	- https://x.com/RomeoStevens76/status/1455068457091756034
 
 ---
 

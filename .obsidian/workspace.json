@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "596b2efad1754cde",
+            "id": "706ba5e8f616f852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/0. Start here/Consensus-ism summary.md",
+                "file": "source/content/2. Layer 2/Layer 2 (imaginations).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consensus-ism summary"
-            }
-          },
-          {
-            "id": "196b7e042672a033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/8. Appendix/People/Michael Stroe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Michael Stroe"
-            }
-          },
-          {
-            "id": "abe0e2954fcc69e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guy, Rivalvoices, nosilverv"
-            }
-          },
-          {
-            "id": "4f9ee1da21ff085e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/8. Appendix/People/Michael Stroe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Michael Stroe"
-            }
-          },
-          {
-            "id": "e73dcfa603bea499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/8. Appendix/People/Simply The Seen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simply The Seen"
+              "title": "Layer 2 (imaginations)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lulie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
+                "file": "source/content/2. Layer 2/Layer 2 (imaginations).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Guy, Rivalvoices, nosilverv"
+              "title": "Backlinks for Layer 2 (imaginations)"
             }
           },
           {
@@ -207,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
+                "file": "source/content/2. Layer 2/Layer 2 (imaginations).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guy, Rivalvoices, nosilverv"
+              "title": "Outline of Layer 2 (imaginations)"
             }
           }
         ]
@@ -235,53 +178,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abe0e2954fcc69e1",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/Images/Pasted image 20251107182815.png",
+    "source/content/8. Appendix/Misc concepts/Clean vs dirty fuel.md",
+    "source/content/0. Start here/Consensus-ism summary.md",
     "source/content/8. Appendix/People/Michael Stroe.md",
-    "source/content/8. Appendix/People/Simply The Seen.md",
-    "source/content/8. Appendix/People/Sasha Chapin.md",
+    "source/content/8. Appendix/Resources/Saints and Psychopaths.md",
     "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
+    "source/content/Images/Pasted image 20251107180204.png",
+    "source/content/8. Appendix/Misc skills/Feel your feelings.md",
+    "source/content/Images/Pasted image 20251107180032.png",
+    "source/content/Images/Pasted image 20251107175626.png",
+    "source/content/Images/Pasted image 20251107175601.png",
+    "source/content/4. Why you're suffering/Tension and avoidance.md",
+    "source/content/Images/Pasted image 20251107175356.png",
+    "source/content/6. Benefits/Happiness and productivity.md",
+    "source/content/Images/Pasted image 20251107174704.png",
+    "source/content/Images/Pasted image 20251107174500.png",
+    "source/content/2. Layer 2/Layer 1 vs layer 2/Layer 2 being foregrounded to layer 1 being foregrounded.md",
+    "source/content/2. Layer 2/First Dart vs Second Dart.md",
+    "source/content/8. Appendix/People/Simply The Seen.md",
+    "source/content/Images/Pasted image 20251107174002.png",
+    "source/content/8. Appendix/Misc concepts/4 Path Model of Enlightenment.md",
+    "source/content/Images/MCTB - 4 path.pdf",
+    "source/content/Images/Pasted image 20251107173550.png",
+    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
+    "source/content/2. Layer 2/Layer 1 vs layer 2/Guy (@nosilverv) - sensations vs imaginations model.md",
+    "source/content/8. Appendix/People/Sasha Chapin.md",
     "source/content/8. Appendix/People/Mark L.md",
     "source/content/Images/malcolm meditationbook.png",
-    "source/content/0. Start here/Consensus-ism summary.md",
-    "source/content/4. Why you're suffering/Tension and avoidance.md",
     "source/content/4. Why you're suffering/Getting stuck.md",
     "source/content/4. Why you're suffering/Confusion and feeling bad.md",
     "source/content/3. False beliefs/I don't know what to do.md",
     "source/content/5. True beliefs/You will always have the info to make the next best action.md",
     "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
     "source/content/0. Start here/Flow state.md",
-    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
     "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
     "source/content/2. Layer 2/Second Dart feelings.md",
     "source/content/3. False beliefs/Sub-beliefs/Distrusting our sense data.md",
-    "source/content/WIP/Various sub-beliefs in false beliefs.md",
-    "source/content/7. Common pushbacks/What about unknown unknowns?.md",
-    "source/content/7. Common pushbacks/What if it starts to feel bad?.md",
-    "source/content/3. False beliefs/Sub-beliefs/Trusting my emotions will make me irrational.md",
-    "source/content/3. False beliefs/Sub-beliefs/It's selfish to do what I want.md",
-    "source/content/3. False beliefs/Sub-beliefs/I can't trust my emotions.md",
-    "source/content/1. Layer 1/Consonance (AKA consensus).md",
-    "source/content/WIP/People.md",
-    "source/content/8. Appendix/Misc concepts/Chanda AKA zeal.md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People",
-    "source/content/Images/non-coercion confusion.png",
-    "source/content/Images/flow state 2.jpg",
-    "source/content/Images/no guessing rule.png",
-    "source/content/Images/pushing aside somatic dissonance.jpg",
-    "source/content/Images/consonance vs dissonance.png",
-    "source/content/Images/Pasted image 20251107124240.png",
-    "source/content/Images/Pasted image 20251107124130.png",
-    "source/content/Images/intuition then vs now.png",
-    "source/content/Images/emotions as the problem.png",
     "source/content/7. Common pushbacks",
     "source/content/6. Benefits",
     "source/content/2. Layer 2/Layer 1 vs layer 2",
     "source/content/2. Layer 2",
     "source/content/1. Layer 1",
     "source/content/8. Appendix/Misc skills",
-    "source/content/8. Appendix/Misc concepts",
-    "source/content/8. Appendix/Resources"
+    "source/content/8. Appendix/Misc concepts"
   ]
 }

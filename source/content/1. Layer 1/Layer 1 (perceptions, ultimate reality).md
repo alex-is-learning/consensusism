@@ -29,7 +29,7 @@ I mean, that’s a pretty dramatic example, a more lowkey one would be like “i
 	- ([[Layer 2 being foregrounded to layer 1 being foregrounded]])
 	- (From imagination-foregrounding life to perceptions-foregrounding)
 ## The Seven Points of Agreement
-- Re: "Ultimate Reality", and the profundity of experiencing it in its pure form, being a core part of religion & spiritual/mystical experience (From the book Saints and Psychopaths):
+- Re: "Ultimate Reality", and the profundity of experiencing it in its pure form, being a core part of religion & spiritual/mystical experience (From the book [[Saints and Psychopaths]]):
 - ![[ultimate reality.jpg]]
 # Appendix re: Ultimate Reality (layer 1)
 ## Ultimate Reality → Sasha Chapin

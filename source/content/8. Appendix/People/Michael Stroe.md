@@ -2,4 +2,10 @@
 - https://michaelstroe.com/
 - https://x.com/Plus3Happiness
 - https://x.com/PSHInstitute
-- http://pshinstitute.org/ → deada link?
+- http://pshinstitute.org/ → dead link?
+
+- ![[Pasted image 20251107174500.png]]
+	- 👆 accessed on 2025-11-07
+
+# Good tweets (just grabbing a handful)
+- ![[Pasted image 20251107174704.png]]

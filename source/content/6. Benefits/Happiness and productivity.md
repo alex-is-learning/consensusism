@@ -13,6 +13,7 @@
 # 10x productive
 - ![[sasha 10x productive.png]]
 - ![[mark genius.png]]
+- ![[Pasted image 20251107174704.png]]
 # Following aliveness feels great
 - ![[michael aliveness.png]]
 	- https://x.com/m_ashcroft/status/1499865481028714497

@@ -20,3 +20,6 @@ I mean, that’s a pretty dramatic example, a more lowkey one would be like “i
 # Do Nothing meditation = stop engaging in layer 2
 - ![[QC do nothing meditation.png]]
 	- https://x.com/QiaochuYuan/status/1737247906095378701
+# Eckhart Tolle
+- ![[Pasted image 20251107182815.png]]
+- Reminds me of the David Foster Wallace line from This is Water re: "the mind is an excellent servant but a terrible master". And then of course Ian McGhilchrist's left vs right hemispheres
