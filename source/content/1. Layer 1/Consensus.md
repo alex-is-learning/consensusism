@@ -10,3 +10,5 @@
 
 
 - ![[consonance vs dissonance.png]]
+
+- May be the same as [[Chanda AKA zeal]]
