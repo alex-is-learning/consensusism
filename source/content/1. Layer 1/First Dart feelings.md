@@ -12,7 +12,7 @@
 - *I may also call like consonance vs dissonance as these make more sense as a pair. But consonance-ism is even more of a bloody mouthful than consensus-ism*
 
 ## Consensus
-- [[Consensus]]
+- [[Consonance (AKA consensus)]]
 
 ## Dissonance
 - [[Dissonance]]

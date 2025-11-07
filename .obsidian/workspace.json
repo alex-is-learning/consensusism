@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
+                "file": "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The core false belief → \"Something I'm feeling is bad to feel\""
-            }
-          },
-          {
-            "id": "454d317f1d9cd84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/WIP/People.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "People"
-            }
-          },
-          {
-            "id": "b77a691db8994c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/8. Appendix/Misc concepts/Chanda AKA zeal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chanda AKA zeal"
-            }
-          },
-          {
-            "id": "9851fbc7df29ea90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2. Layer 2/Second Dart feelings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Second Dart feelings"
+              "title": "What if what I want to do is be lazy?"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2. Layer 2/Second Dart feelings.md",
+                "file": "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Second Dart feelings"
+              "title": "Backlinks for What if what I want to do is be lazy?"
             }
           },
           {
@@ -193,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2. Layer 2/Second Dart feelings.md",
+                "file": "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Second Dart feelings"
+              "title": "Outline of What if what I want to do is be lazy?"
             }
           }
         ]
@@ -221,34 +178,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9851fbc7df29ea90",
+  "active": "596b2efad1754cde",
   "lastOpenFiles": [
-    "source/content/2. Layer 2/First Dart vs Second Dart.md",
-    "source/content/2. Layer 2/Confusing yourself with language.md",
-    "source/content/8. Appendix/Misc concepts/The 3 horsemen of motivation.md",
-    "source/content/8. Appendix/Misc concepts/Chanda AKA zeal.md",
-    "source/content/1. Layer 1/Consensus.md",
+    "source/content/0. Start here/Consensus-ism summary.md",
+    "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
+    "source/content/2. Layer 2/Second Dart feelings.md",
+    "source/content/3. False beliefs/Sub-beliefs/Distrusting our sense data.md",
+    "source/content/WIP/Various sub-beliefs in false beliefs.md",
+    "source/content/7. Common pushbacks/What about unknown unknowns?.md",
+    "source/content/7. Common pushbacks/What if it starts to feel bad?.md",
+    "source/content/3. False beliefs/Sub-beliefs/Trusting my emotions will make me irrational.md",
+    "source/content/3. False beliefs/Sub-beliefs/It's selfish to do what I want.md",
+    "source/content/3. False beliefs/Sub-beliefs/I can't trust my emotions.md",
+    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
+    "source/content/1. Layer 1/Consonance (AKA consensus).md",
+    "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
     "source/content/WIP/People.md",
+    "source/content/8. Appendix/Misc concepts/Chanda AKA zeal.md",
+    "source/content/2. Layer 2/Confusing yourself with language.md",
+    "source/content/1. Layer 1/Feelings.md",
+    "source/content/2. Layer 2/First Dart vs Second Dart.md",
+    "source/content/8. Appendix/Misc concepts/The 3 horsemen of motivation.md",
     "source/content/6. Benefits/Happiness and productivity.md",
     "source/content/5. True beliefs/You will always have the info to make the next best action.md",
     "source/content/4. Why you're suffering/Tension and avoidance.md",
     "source/content/4. Why you're suffering/Getting stuck.md",
     "source/content/4. Why you're suffering/Confusion and feeling bad.md",
-    "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
     "source/content/3. False beliefs/I don't know what to do.md",
     "source/content/3. False beliefs/False beliefs exist in layer 2.md",
-    "source/content/2. Layer 2/Second Dart feelings.md",
-    "source/content/2. Layer 2/Layer 2 (imaginations).md",
-    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
-    "source/content/1. Layer 1/First Dart feelings.md",
-    "source/content/1. Layer 1/Feelings.md",
-    "source/content/1. Layer 1/Dissonance.md",
-    "source/content/5. True beliefs/Sub-beliefs/Feelings are signal.md",
-    "source/content/5. True beliefs/Sub-beliefs/All feelings are good.md",
-    "source/content/5. True beliefs/Sub-beliefs/Feelings don't contain false info.md",
-    "source/content/0. Start here/Flow state.md",
-    "source/content/0. Start here/Consensus-ism summary.md",
-    "source/content/1. Consensus-ism/Layer 1 and layer 2.md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People",
     "source/content/Images/non-coercion confusion.png",
