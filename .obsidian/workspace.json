@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Consensus-ism summary"
             }
+          },
+          {
+            "id": "196b7e042672a033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/8. Appendix/People/Michael Stroe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Michael Stroe"
+            }
+          },
+          {
+            "id": "abe0e2954fcc69e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guy, Rivalvoices, nosilverv"
+            }
+          },
+          {
+            "id": "4f9ee1da21ff085e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/8. Appendix/People/Michael Stroe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Michael Stroe"
+            }
+          },
+          {
+            "id": "e73dcfa603bea499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/8. Appendix/People/Simply The Seen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simply The Seen"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/0. Start here/Consensus-ism summary.md",
+                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Consensus-ism summary"
+              "title": "Backlinks for Guy, Rivalvoices, nosilverv"
             }
           },
           {
@@ -150,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/0. Start here/Consensus-ism summary.md",
+                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Consensus-ism summary"
+              "title": "Outline of Guy, Rivalvoices, nosilverv"
             }
           }
         ]
@@ -178,12 +235,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "596b2efad1754cde",
+  "active": "abe0e2954fcc69e1",
   "lastOpenFiles": [
+    "source/content/8. Appendix/People/Michael Stroe.md",
+    "source/content/8. Appendix/People/Simply The Seen.md",
+    "source/content/8. Appendix/People/Sasha Chapin.md",
+    "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
+    "source/content/8. Appendix/People/Mark L.md",
+    "source/content/Images/malcolm meditationbook.png",
+    "source/content/0. Start here/Consensus-ism summary.md",
     "source/content/4. Why you're suffering/Tension and avoidance.md",
     "source/content/4. Why you're suffering/Getting stuck.md",
     "source/content/4. Why you're suffering/Confusion and feeling bad.md",
-    "source/content/0. Start here/Consensus-ism summary.md",
     "source/content/3. False beliefs/I don't know what to do.md",
     "source/content/5. True beliefs/You will always have the info to make the next best action.md",
     "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
@@ -201,11 +264,6 @@
     "source/content/1. Layer 1/Consonance (AKA consensus).md",
     "source/content/WIP/People.md",
     "source/content/8. Appendix/Misc concepts/Chanda AKA zeal.md",
-    "source/content/2. Layer 2/Confusing yourself with language.md",
-    "source/content/1. Layer 1/Feelings.md",
-    "source/content/2. Layer 2/First Dart vs Second Dart.md",
-    "source/content/8. Appendix/Misc concepts/The 3 horsemen of motivation.md",
-    "source/content/6. Benefits/Happiness and productivity.md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People",
     "source/content/Images/non-coercion confusion.png",
@@ -217,7 +275,6 @@
     "source/content/Images/Pasted image 20251107124130.png",
     "source/content/Images/intuition then vs now.png",
     "source/content/Images/emotions as the problem.png",
-    "source/content/Images/producitivty acceptance.png",
     "source/content/7. Common pushbacks",
     "source/content/6. Benefits",
     "source/content/2. Layer 2/Layer 1 vs layer 2",

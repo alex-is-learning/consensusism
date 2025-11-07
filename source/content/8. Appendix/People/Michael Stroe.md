@@ -1,0 +1,5 @@
+- He's the one who got [[Guy, Rivalvoices, nosilverv]] to stream entry which led to many great useful tweets by Guy
+- https://michaelstroe.com/
+- https://x.com/Plus3Happiness
+- https://x.com/PSHInstitute
+- http://pshinstitute.org/ → deada link?
