@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
+                "file": "source/content/0. Start here/Consensus-ism summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What if what I want to do is be lazy?"
+              "title": "Consensus-ism summary"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lulie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
+                "file": "source/content/0. Start here/Consensus-ism summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What if what I want to do is be lazy?"
+              "title": "Backlinks for Consensus-ism summary"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
+                "file": "source/content/0. Start here/Consensus-ism summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What if what I want to do is be lazy?"
+              "title": "Outline of Consensus-ism summary"
             }
           }
         ]
@@ -180,7 +180,15 @@
   },
   "active": "596b2efad1754cde",
   "lastOpenFiles": [
+    "source/content/4. Why you're suffering/Tension and avoidance.md",
+    "source/content/4. Why you're suffering/Getting stuck.md",
+    "source/content/4. Why you're suffering/Confusion and feeling bad.md",
     "source/content/0. Start here/Consensus-ism summary.md",
+    "source/content/3. False beliefs/I don't know what to do.md",
+    "source/content/5. True beliefs/You will always have the info to make the next best action.md",
+    "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
+    "source/content/0. Start here/Flow state.md",
+    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
     "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
     "source/content/2. Layer 2/Second Dart feelings.md",
     "source/content/3. False beliefs/Sub-beliefs/Distrusting our sense data.md",
@@ -190,9 +198,7 @@
     "source/content/3. False beliefs/Sub-beliefs/Trusting my emotions will make me irrational.md",
     "source/content/3. False beliefs/Sub-beliefs/It's selfish to do what I want.md",
     "source/content/3. False beliefs/Sub-beliefs/I can't trust my emotions.md",
-    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
     "source/content/1. Layer 1/Consonance (AKA consensus).md",
-    "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
     "source/content/WIP/People.md",
     "source/content/8. Appendix/Misc concepts/Chanda AKA zeal.md",
     "source/content/2. Layer 2/Confusing yourself with language.md",
@@ -200,12 +206,6 @@
     "source/content/2. Layer 2/First Dart vs Second Dart.md",
     "source/content/8. Appendix/Misc concepts/The 3 horsemen of motivation.md",
     "source/content/6. Benefits/Happiness and productivity.md",
-    "source/content/5. True beliefs/You will always have the info to make the next best action.md",
-    "source/content/4. Why you're suffering/Tension and avoidance.md",
-    "source/content/4. Why you're suffering/Getting stuck.md",
-    "source/content/4. Why you're suffering/Confusion and feeling bad.md",
-    "source/content/3. False beliefs/I don't know what to do.md",
-    "source/content/3. False beliefs/False beliefs exist in layer 2.md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People",
     "source/content/Images/non-coercion confusion.png",

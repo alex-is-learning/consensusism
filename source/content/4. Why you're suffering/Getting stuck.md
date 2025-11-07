@@ -22,3 +22,8 @@
 	- It is the idea that:
 		- We get stuck because we habitually shut down awareness of other options, and thus the possibility of taking them.
 		- Along with techniques to free oneself.”
+
+
+--- 
+
+similar to [[Confusion and feeling bad]] and [[Tension and avoidance]]

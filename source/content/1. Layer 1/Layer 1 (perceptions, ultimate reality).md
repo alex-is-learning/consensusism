@@ -14,6 +14,7 @@ I mean, that’s a pretty dramatic example, a more lowkey one would be like “i
 	- [[Consonance (AKA consensus)]]
 	- [[Dissonance]]
 	- [[First Dart feelings]]
+	- Sensations → sight, sounds, the world, etc. Heidegger's like "being in the world" thing. The reality you're enmeshed in
 # Diagrams
 ## The two layers
 - From [[Guy (@nosilverv) - sensations vs imaginations model]]
@@ -22,12 +23,13 @@ I mean, that’s a pretty dramatic example, a more lowkey one would be like “i
 	- Imaginations = layer 2. The part that you make up
 ## Which layer you foreground
 - By default, we foreground [[Layer 2 (imaginations)]] - we're lost in our own abstractions, worries, [[Second Dart feelings]], etc. [[Confusing yourself with language]]
-- But, this can shift, and you can foreground Ultimate Reality, realising that the imaginations are optional extras 
-	- ([[Layer 2 being foregrounded to layer 1 being foregrounded]])
+- We're of course aware of layer 1, it's always there, but we're seeing it through the haze of our own worries and thoughts, it's like there's a separation between us-as-a-self and the-world-out-there
+- But, this can shift, and you can foreground Ultimate Reality, realising that the imaginations are optional extras: 
 - ![[layer 1 and layer 2.png]]
-	- From imagination-foregrounding life to perceptions-foregrounding life
+	- ([[Layer 2 being foregrounded to layer 1 being foregrounded]])
+	- (From imagination-foregrounding life to perceptions-foregrounding)
 ## The Seven Points of Agreement
-- From the book Saints and Psychopaths:
+- Re: "Ultimate Reality", and the profundity of experiencing it in its pure form, being a core part of religion & spiritual/mystical experience (From the book Saints and Psychopaths):
 - ![[ultimate reality.jpg]]
 # Appendix re: Ultimate Reality (layer 1)
 ## Ultimate Reality → Sasha Chapin

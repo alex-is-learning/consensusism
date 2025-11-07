@@ -1,4 +1,7 @@
 - 2025-11-04
+- For kind of like "field reports", it's probably worth reading:
+	- "[Consensus-ism (part 1)](http://alexislearning.substack.com/p/consensus-ism-part-1)" → Substack post
+	- "[Consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)" → Substack post
 
 # 0. The core claim
 > ==In any moment, you have access to all the information you need in order to make "the next right action"==
@@ -20,11 +23,15 @@
 # 2. But we habitually distrust layer 1
 - People are accustomed to making themselves do things that feel grind-y and off
 - People think they *have* to do things that are grind-y and off. "If I only do things that feel good, then won't I just like, play video-games all the time?"
-- That is, people are used to distrusting and disregarding [[Layer 1 (perceptions, ultimate reality)]], and instead following their thoughts and abstractions from [[Layer 2 (imaginations)]]
+- That is, people are used to distrusting and disregarding [[Layer 1 (perceptions, ultimate reality)|Layer 1]], and instead following their thoughts and abstractions from [[Layer 2 (imaginations)|Layer 2]]
 	- [[Distrusting our sense data]]
 ## Core false beliefs
 - [[The core false belief → "Something I'm feeling is bad to feel"]]
 - And then as a result, "[[I don't know what to do]]"
+- This leads to suffering, due to:
+	- [[Confusion and feeling bad]]
+	- [[Getting stuck]]
+	- [[Tension and avoidance]]
 # 3. What goes wrong when you distrust your sense data
 - You create suffering, basically!
 	- [[Second Dart feelings]]
@@ -48,7 +55,7 @@
 - "Let me just pause and see if anything else feels good to do"
 - Then, maybe remaining paused for a while feels good, just resting and doing nothing. And then maybe you have a genuine desire to go make a cup of coffee, or to go outside, or maybe the pause gives you enough time to realise that answering the email wouldn't be so bad, etc
 - [[You will always have the info to make the next best action]]
-## [[Flow state]]
+## Therefore, [[Flow state]]
 - The idea, really, is to be in a flow state where you honour your experience
 - If something feels bad, that's perfect unfakeable signal that that thing is indeed bad to do right now, and there's no need to force yourself to do it
 - It something feels transparently correct, then that's perfect unfakeable signal that that thing is the correct thing to engage with right now

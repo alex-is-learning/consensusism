@@ -5,3 +5,7 @@
 - ![[brainfog.png]]
 ## Trapped in layer 2 
 - ![[brent wrong with you.png]]
+
+--- 
+
+Similar to [[Getting stuck]] and [[Tension and avoidance]]

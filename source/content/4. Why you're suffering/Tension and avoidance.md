@@ -12,3 +12,8 @@
 # Tense your body for 20 years
 - ![[romeo tense your body.png]]
 - *There's also the classic Romeo tweet re: tensing your body into the ice-cream shape which I can't find right now as I've blocked twitter apart from 17:00-17:30 every day*
+
+
+---
+
+Similar to [[Confusion and feeling bad]] and [[Getting stuck]]
