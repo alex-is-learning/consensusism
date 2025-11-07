@@ -1,7 +1,8 @@
-- This is a term from Buddhism
+- Corresponds exactly to "[[Layer 1 (perceptions, ultimate reality)]]" vs "[[Layer 2 (imaginations)]]"
 
-- https://www.tjwaldorf.com/first-and-second-darts-the-darts-we-throw-ourselves/
 
+- "First Dart" vs "Second Dart" are terms from Buddhism that I first learned about from this post that [[Michael Stroe]] sent me:
+	- [First and Second Darts: The darts we throw ourselves](https://www.tjwaldorf.com/first-and-second-darts-the-darts-we-throw-ourselves/), blog post by TJ Waldorf
 
 From the above:
 

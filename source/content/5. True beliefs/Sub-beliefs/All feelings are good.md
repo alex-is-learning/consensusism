@@ -3,10 +3,7 @@
 	- There isn't a separate "you" that the feeling/experience is *happening to*, there's just experience
 	- You can’t be something different from your experience
 	- So there’s no Managing Things that’s possible
-
-
 - ![[Pasted image 20251107100625.png]]
-
 # Making thoughts thinkable
 - Unlike [[The core false belief → "Something I'm feeling is bad to feel"]]:
 - ![[lulie - make thoughts thinkable.png]]

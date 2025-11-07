@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/4. True beliefs/Sub-beliefs/All feelings are good.md",
+                "file": "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All feelings are good"
+              "title": "The core false belief → \"Something I'm feeling is bad to feel\""
+            }
+          },
+          {
+            "id": "454d317f1d9cd84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/3. False beliefs/False beliefs exist in layer 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "False beliefs exist in layer 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/4. True beliefs/Sub-beliefs/All feelings are good.md",
+                "file": "source/content/3. False beliefs/False beliefs exist in layer 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All feelings are good"
+              "title": "Backlinks for False beliefs exist in layer 2"
             }
           },
           {
@@ -150,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/4. True beliefs/Sub-beliefs/All feelings are good.md",
+                "file": "source/content/3. False beliefs/False beliefs exist in layer 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All feelings are good"
+              "title": "Outline of False beliefs exist in layer 2"
             }
           }
         ]
@@ -180,51 +195,51 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/Images/non-coercion confusion.png",
-    "source/content/3. Suffering/Getting stuck.md",
+    "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
+    "source/content/3. False beliefs/False beliefs exist in layer 2.md",
+    "source/content/3. False beliefs/I don't know what to do.md",
+    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
+    "source/content/1. Consensus-ism/Layer 1 and layer 2.md",
+    "source/content/1. Layer 1/First Dart feelings.md",
+    "source/content/1. Layer 1/Feelings.md",
+    "source/content/1. Layer 1/Dissonance.md",
+    "source/content/1. Layer 1/Consensus.md",
+    "source/content/2. Layer 2/Layer 1 vs layer 2/Guy (@nosilverv) - sensations vs imaginations model.md",
+    "source/content/2. Layer 2/First Dart vs Second Dart.md",
+    "source/content/0. Start here",
+    "source/content/8. Appendix/People/People working on similar things.md",
     "source/content/WIP/Terms that aren't clear.md",
+    "source/content/8. Appendix/People/Michael Stroe.md",
+    "source/content/8. Appendix/People",
+    "source/content/5. True beliefs/Sub-beliefs/All feelings are good.md",
+    "source/content/Images/non-coercion confusion.png",
+    "source/content/4. Why you're suffering/Getting stuck.md",
     "source/content/WIP/Wittgenstein.md",
     "source/content/WIP/Stuff from my personal obsidian vault.md",
-    "source/content/1. Consensus-ism/Flow state.md",
+    "source/content/0. Start here/Flow state.md",
     "source/content/Images/flow state 2.jpg",
-    "source/content/4. True beliefs/Sub-beliefs/No Guessing Rule.md",
+    "source/content/5. True beliefs/Sub-beliefs/No Guessing Rule.md",
     "source/content/Images/no guessing rule.png",
-    "source/content/2. False beliefs/Sub-beliefs/I should push through resistance.md",
+    "source/content/3. False beliefs/Sub-beliefs/I should push through resistance.md",
     "source/content/Images/pushing aside somatic dissonance.jpg",
-    "source/content/1. Consensus-ism/Layer 1/Dissonance.md",
-    "source/content/1. Consensus-ism/Layer 1/Consensus.md",
     "source/content/Images/consonance vs dissonance.png",
-    "source/content/1. Consensus-ism/Layer 1/Feelings.md",
     "source/content/Images/Pasted image 20251107124240.png",
     "source/content/Images/Pasted image 20251107124130.png",
-    "source/content/1. Consensus-ism/Layer 1 vs layer 2/Layer 2 being foregrounded to layer 1 being foregrounded.md",
+    "source/content/2. Layer 2/Layer 1 vs layer 2/Layer 2 being foregrounded to layer 1 being foregrounded.md",
     "source/content/Images/intuition then vs now.png",
-    "source/content/1. Consensus-ism/Layer 1 vs layer 2/Guy (@nosilverv) - sensations vs imaginations model.md",
-    "source/content/4. True beliefs/Sub-beliefs/Feelings are signal.md",
+    "source/content/5. True beliefs/Sub-beliefs/Feelings are signal.md",
     "source/content/Images/emotions as the problem.png",
     "source/content/Images/What if it makes me lazy (to follow my genuine desires).md",
     "source/content/Images/producitivty acceptance.png",
-    "source/content/Images/what if my energy flows to the bars.png",
-    "source/content/6. Common pushbacks",
-    "source/content/3. Suffering/Tension and avoidance.md",
+    "source/content/7. Common pushbacks",
+    "source/content/4. Why you're suffering/Tension and avoidance.md",
     "source/content/3. Suffering/How does this connect with my suffering?.md",
-    "source/content/3. Suffering/Confusion and feeling bad.md",
-    "source/content/2. False beliefs/I don't know what to do.md",
-    "source/content/2. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
-    "source/content/4. True beliefs/Sub-beliefs/All feelings are good.md",
-    "source/content/4. True beliefs/You will always have the info to make the next best action.md",
-    "source/content/1. Consensus-ism/Consensus-ism summary.md",
-    "source/content/5. Benefits/Happiness and productivity.md",
-    "source/content/5. Benefits",
-    "source/content/1. Consensus-ism/Layer 2/Layer 2 (imaginations).md",
-    "source/content/7. Appendix/People working on similar things.md",
-    "source/content/1. Consensus-ism/Layer 1 vs layer 2",
-    "source/content/1. Consensus-ism/Layer 2",
-    "source/content/1. Consensus-ism/Layer 1",
-    "source/content/Misc skills",
-    "source/content/Misc concepts",
-    "source/content/Resources",
-    "source/content/WIP",
-    "source/content/2. False beliefs/Sub-beliefs"
+    "source/content/6. Benefits",
+    "source/content/2. Layer 2/Layer 1 vs layer 2",
+    "source/content/2. Layer 2",
+    "source/content/1. Layer 1",
+    "source/content/8. Appendix/Misc skills",
+    "source/content/8. Appendix/Misc concepts",
+    "source/content/8. Appendix/Resources"
   ]
 }
