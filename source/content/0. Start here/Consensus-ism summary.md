@@ -1,11 +1,13 @@
 - 2025-11-04
 
 - The core claim:
-> In any moment, you have access to all the information you need in order to make "the next right action"
-- Things can feel one of two ways:
-	1. Obvious, straightforward, transparently correct
-	2. Grind-y, off, bad
-- If something feels transparently correct, go ahead and do it, until a feeling of off-ness appears, at which point, pause and reassess
+> ==In any moment, you have access to all the information you need in order to make "the next right action"==
+
+- Things (actions, thoughts, ideas) can feel one of two ways:
+	1. Obvious, straightforward, transparently correct ([[Consensus]])
+	2. Grind-y, off, bad ([[Dissonance]])
+
+- If something feels transparently correct (that is, if there is consensus), go ahead and do it, until a feeling of off-ness appears, at which point, pause and reassess
 - If something feels grind-y and off, then it's not the right thing to do - pause and reassess
 - This is uhh, kind of the whole thing?
 
@@ -32,7 +34,7 @@
 - "I guess it's not time to reply to my emails"
 - "Let me just pause and see if anything else feels good to do"
 - Then, maybe remaining paused for a while feels good, just resting and doing nothing. And then maybe you have a genuine desire to go make a cup of coffee, or to go outside, or maybe the pause gives you enough time to realise that answering the email wouldn't be so bad, etc
-## Flow state
+## [[Flow state]]
 - The idea, really, is to be in a flow state where you honour your experience
 - If something feels bad, that's perfect unfakeable signal that that thing is indeed bad to do right now, and there's no need to force yourself to do it
 - It something feels transparently correct, then that's perfect unfakeable signal that that thing is the correct thing to engage with right now

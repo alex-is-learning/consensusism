@@ -11,3 +11,6 @@
 
 
 ![[Pasted image 20251107121534.png]]
+
+# Vs - "all feelings are good"
+- Vs e.g. [[All feelings are good]]

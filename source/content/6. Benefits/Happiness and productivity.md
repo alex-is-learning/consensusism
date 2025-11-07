@@ -1,6 +1,11 @@
 # Deep alignment
 - ![[lilue want + how.png]]
 - ![[jonny re schmact.png]]
+# Making thoughts thinkable
+- Unlike [[The core false belief → "Something I'm feeling is bad to feel"]]:
+- ![[lulie - make thoughts thinkable.png]]
+# Accepting all feelings
+- ![[non-coercion confusion.png]]
 # Fall in love
 - ![[sasha fall in love.png]]
 - ![[alexandra flourishing.png]]

@@ -1,2 +1,8 @@
-
-![[Pasted image 20251107101624.png]]
+- ![[Pasted image 20251107101624.png]]
+- Feelings
+	- [[Feelings are signal]]
+	- [[Feelings don't contain false info]]
+	- [[All feelings are good]]
+- [[No Guessing Rule]]
+- [[One unitary preference (no parts)]]
+- [[Pendulation]]

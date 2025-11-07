@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. False beliefs/False beliefs exist in layer 2.md",
+                "file": "source/content/WIP/People.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "False beliefs exist in layer 2"
+              "title": "People"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. False beliefs/False beliefs exist in layer 2.md",
+                "file": "source/content/WIP/People.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for False beliefs exist in layer 2"
+              "title": "Backlinks for People"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. False beliefs/False beliefs exist in layer 2.md",
+                "file": "source/content/WIP/People.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of False beliefs exist in layer 2"
+              "title": "Outline of People"
             }
           }
         ]
@@ -193,47 +193,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "454d317f1d9cd84d",
   "lastOpenFiles": [
+    "source/content/6. Benefits/Happiness and productivity.md",
+    "source/content/WIP/People.md",
+    "source/content/5. True beliefs/You will always have the info to make the next best action.md",
+    "source/content/4. Why you're suffering/Tension and avoidance.md",
+    "source/content/4. Why you're suffering/Getting stuck.md",
+    "source/content/4. Why you're suffering/Confusion and feeling bad.md",
     "source/content/3. False beliefs/The core false belief → \"Something I'm feeling is bad to feel\".md",
-    "source/content/3. False beliefs/False beliefs exist in layer 2.md",
     "source/content/3. False beliefs/I don't know what to do.md",
+    "source/content/3. False beliefs/False beliefs exist in layer 2.md",
+    "source/content/2. Layer 2/Second Dart feelings.md",
+    "source/content/2. Layer 2/Layer 2 (imaginations).md",
     "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
-    "source/content/1. Consensus-ism/Layer 1 and layer 2.md",
+    "source/content/2. Layer 2/First Dart vs Second Dart.md",
     "source/content/1. Layer 1/First Dart feelings.md",
     "source/content/1. Layer 1/Feelings.md",
     "source/content/1. Layer 1/Dissonance.md",
     "source/content/1. Layer 1/Consensus.md",
+    "source/content/5. True beliefs/Sub-beliefs/Feelings are signal.md",
+    "source/content/5. True beliefs/Sub-beliefs/All feelings are good.md",
+    "source/content/5. True beliefs/Sub-beliefs/Feelings don't contain false info.md",
+    "source/content/0. Start here/Flow state.md",
+    "source/content/0. Start here/Consensus-ism summary.md",
+    "source/content/1. Consensus-ism/Layer 1 and layer 2.md",
     "source/content/2. Layer 2/Layer 1 vs layer 2/Guy (@nosilverv) - sensations vs imaginations model.md",
-    "source/content/2. Layer 2/First Dart vs Second Dart.md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People/People working on similar things.md",
     "source/content/WIP/Terms that aren't clear.md",
-    "source/content/8. Appendix/People/Michael Stroe.md",
     "source/content/8. Appendix/People",
-    "source/content/5. True beliefs/Sub-beliefs/All feelings are good.md",
     "source/content/Images/non-coercion confusion.png",
-    "source/content/4. Why you're suffering/Getting stuck.md",
-    "source/content/WIP/Wittgenstein.md",
-    "source/content/WIP/Stuff from my personal obsidian vault.md",
-    "source/content/0. Start here/Flow state.md",
     "source/content/Images/flow state 2.jpg",
-    "source/content/5. True beliefs/Sub-beliefs/No Guessing Rule.md",
     "source/content/Images/no guessing rule.png",
-    "source/content/3. False beliefs/Sub-beliefs/I should push through resistance.md",
     "source/content/Images/pushing aside somatic dissonance.jpg",
     "source/content/Images/consonance vs dissonance.png",
     "source/content/Images/Pasted image 20251107124240.png",
     "source/content/Images/Pasted image 20251107124130.png",
-    "source/content/2. Layer 2/Layer 1 vs layer 2/Layer 2 being foregrounded to layer 1 being foregrounded.md",
     "source/content/Images/intuition then vs now.png",
-    "source/content/5. True beliefs/Sub-beliefs/Feelings are signal.md",
     "source/content/Images/emotions as the problem.png",
-    "source/content/Images/What if it makes me lazy (to follow my genuine desires).md",
     "source/content/Images/producitivty acceptance.png",
     "source/content/7. Common pushbacks",
-    "source/content/4. Why you're suffering/Tension and avoidance.md",
-    "source/content/3. Suffering/How does this connect with my suffering?.md",
     "source/content/6. Benefits",
     "source/content/2. Layer 2/Layer 1 vs layer 2",
     "source/content/2. Layer 2",
