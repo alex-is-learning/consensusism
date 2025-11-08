@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2. Layer 2/Layer 2 (imaginations).md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer 2 (imaginations)"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2. Layer 2/Layer 2 (imaginations).md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Layer 2 (imaginations)"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2. Layer 2/Layer 2 (imaginations).md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Layer 2 (imaginations)"
+              "title": "Outline of index"
             }
           }
         ]
@@ -180,6 +180,10 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/Images/Pasted image 20251108184430.png",
+    "source/content/Images/Pasted image 20251108184325.png",
+    "source/content/6. Benefits/Happiness and productivity.md",
+    "source/content/2. Layer 2/Layer 2 (imaginations).md",
     "source/content/Images/Pasted image 20251107182815.png",
     "source/content/8. Appendix/Misc concepts/Clean vs dirty fuel.md",
     "source/content/0. Start here/Consensus-ism summary.md",
@@ -193,7 +197,6 @@
     "source/content/Images/Pasted image 20251107175601.png",
     "source/content/4. Why you're suffering/Tension and avoidance.md",
     "source/content/Images/Pasted image 20251107175356.png",
-    "source/content/6. Benefits/Happiness and productivity.md",
     "source/content/Images/Pasted image 20251107174704.png",
     "source/content/Images/Pasted image 20251107174500.png",
     "source/content/2. Layer 2/Layer 1 vs layer 2/Layer 2 being foregrounded to layer 1 being foregrounded.md",
@@ -202,12 +205,10 @@
     "source/content/Images/Pasted image 20251107174002.png",
     "source/content/8. Appendix/Misc concepts/4 Path Model of Enlightenment.md",
     "source/content/Images/MCTB - 4 path.pdf",
-    "source/content/Images/Pasted image 20251107173550.png",
     "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
     "source/content/2. Layer 2/Layer 1 vs layer 2/Guy (@nosilverv) - sensations vs imaginations model.md",
     "source/content/8. Appendix/People/Sasha Chapin.md",
     "source/content/8. Appendix/People/Mark L.md",
-    "source/content/Images/malcolm meditationbook.png",
     "source/content/4. Why you're suffering/Getting stuck.md",
     "source/content/4. Why you're suffering/Confusion and feeling bad.md",
     "source/content/3. False beliefs/I don't know what to do.md",
@@ -216,7 +217,6 @@
     "source/content/0. Start here/Flow state.md",
     "source/content/7. Common pushbacks/What if what I want to do is be lazy?.md",
     "source/content/2. Layer 2/Second Dart feelings.md",
-    "source/content/3. False beliefs/Sub-beliefs/Distrusting our sense data.md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People",
     "source/content/7. Common pushbacks",
