@@ -1,0 +1,3 @@
+- [[Mastering the Core Teachings of the Buddha]]
+- [[Saints and Psychopaths]]
+- [[Decartes' Error]] → just re: "emotions are essential"

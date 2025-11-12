@@ -10,6 +10,8 @@ So that’s what was going on when I wrote part 1 - I was much better at noticin
 
 I mean, that’s a pretty dramatic example, a more lowkey one would be like “it’s a Saturday, I feel like going for a walk → eeeee but what about xyz other options”.
 
+- ![[Pasted image 20251109190021.png]]
+	- https://x.com/nosilverv/status/1987564325264060477
 ## Diagrams from Rivalvoices/Guy/@nosilverv
 - - ![[layer 1 vs layer 2.png]]
 	- Perceptions = layer 1
