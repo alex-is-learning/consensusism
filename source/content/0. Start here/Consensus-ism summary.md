@@ -65,4 +65,5 @@
 - [[What if what I want to do is be lazy?]]
 - [[What if it starts to feel bad?]]
 - [[What about unknown unknowns?]]
-
+# Appendix
+- [[Importance of dialogue]]
