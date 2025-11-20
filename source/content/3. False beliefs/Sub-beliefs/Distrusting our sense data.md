@@ -5,6 +5,7 @@
 - There's a background belief that emotions are just random things to be ignored, basically. That they don't contain much signal.
 	- Vs e.g. in people who no longer have the emotional part of their brain, they can no longer make rational decisions, and essentially blow up their lives (e.g. see the book ["Decartes' Error"](https://en.wikipedia.org/wiki/Descartes%27_Error))
 - [[History of emotions (ChatGPT)]]
+- ![[Pasted image 20251119111004.png]]
 # Why we distrust our emotions 
 - [[I can't trust my emotions]]
 ## "It's selfish to do what I want"
