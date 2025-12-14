@@ -8,6 +8,8 @@
 ## "Get out the car" - not by concepts
 - ![[rival voices get out the car.png]]
 	- https://twitter.com/nosilverv/status/1774578088141062259
+# new banger!!
+- ![[Pasted image 20251214133250.png]]
 # Guy & [[Michael Stroe]]
 - ![[Pasted image 20251107175601.png]]
 - https://x.com/nosilverv/status/1978397740628316421

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/8. Appendix/Importance of dialogue/Vygotsky.md",
+                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vygotsky"
+              "title": "Guy, Rivalvoices, nosilverv"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/8. Appendix/Importance of dialogue/Vygotsky.md",
+                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vygotsky"
+              "title": "Backlinks for Guy, Rivalvoices, nosilverv"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/8. Appendix/Importance of dialogue/Vygotsky.md",
+                "file": "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vygotsky"
+              "title": "Outline of Guy, Rivalvoices, nosilverv"
             }
           }
         ]
@@ -177,12 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "706ba5e8f616f852",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/Images/Pasted image 20251214133250.png",
+    "source/content/5. True beliefs/You will always have the info to make the next best action.md",
+    "source/content/8. Appendix/Importance of dialogue/Vygotsky.md",
     "source/content/3. False beliefs/Sub-beliefs/Distrusting our sense data.md",
     "source/content/Images/Pasted image 20251119111004.png",
     "source/content/8. Appendix/Importance of dialogue/Unconditional Positive Regard.md",
-    "source/content/8. Appendix/Importance of dialogue/Vygotsky.md",
     "source/content/8. Appendix/Importance of dialogue/More Knowledgable Other.md",
     "source/content/8. Appendix/Importance of dialogue/Zone of Proximal Development.md",
     "source/content/8. Appendix/Importance of dialogue/Importance of dialogue.md",
@@ -214,9 +216,7 @@
     "source/content/2. Layer 2/Layer 1 vs layer 2/Layer 2 being foregrounded to layer 1 being foregrounded.md",
     "source/content/2. Layer 2/First Dart vs Second Dart.md",
     "source/content/8. Appendix/People/Simply The Seen.md",
-    "source/content/8. Appendix/Misc concepts/4 Path Model of Enlightenment.md",
     "source/content/Images/MCTB - 4 path.pdf",
-    "source/content/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
     "source/content/0. Start here",
     "source/content/8. Appendix/People",
     "source/content/7. Common pushbacks",
