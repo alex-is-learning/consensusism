@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Guy, Rivalvoices, nosilverv"
             }
+          },
+          {
+            "id": "6a08498076592e8e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ]
       }
@@ -177,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "706ba5e8f616f852",
   "lastOpenFiles": [
     "source/content/Images/Pasted image 20260116080037.png",
     "source/content/Images/Pasted image 20251214133250.png",

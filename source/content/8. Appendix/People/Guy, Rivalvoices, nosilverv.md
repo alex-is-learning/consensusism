@@ -16,4 +16,5 @@
 - ![[Pasted image 20251107175626.png]]
 - https://x.com/nosilverv/status/1982441996506538444
 - Banger!!!
+- 👇 [the tweet](https://x.com/nosilverv/status/1987564325264060477)
 - ![[Pasted image 20260116080037.png]]
