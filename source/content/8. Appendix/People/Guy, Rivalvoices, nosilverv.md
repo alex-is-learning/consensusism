@@ -15,3 +15,5 @@
 - https://x.com/nosilverv/status/1978397740628316421
 - ![[Pasted image 20251107175626.png]]
 - https://x.com/nosilverv/status/1982441996506538444
+- Banger!!!
+- ![[Pasted image 20260116080037.png]]
