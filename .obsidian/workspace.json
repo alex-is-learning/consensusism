@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/8. Appendix/Resources/Books and sources.md",
+                "file": "source/content/0. Start here/Where does consensus-ism come from?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books and sources"
+              "title": "Where does consensus-ism come from?"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/8. Appendix/Resources/Books and sources.md",
+                "file": "source/content/0. Start here/Where does consensus-ism come from?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books and sources"
+              "title": "Backlinks for Where does consensus-ism come from?"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/8. Appendix/Resources/Books and sources.md",
+                "file": "source/content/0. Start here/Where does consensus-ism come from?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Books and sources"
+              "title": "Outline of Where does consensus-ism come from?"
             }
           }
         ]
@@ -189,17 +189,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "706ba5e8f616f852",
   "lastOpenFiles": [
+    "source/content/8. Appendix/Resources/Books and sources.md",
+    "source/content/0. Start here/Where does consensus-ism come from?.md",
+    "source/content/index.md",
+    "source/content/8. Appendix/Resources/Mastering the Core Teachings of the Buddha.md",
     "source/content/Images/Pasted image 20260118105857.png",
     "source/content/8. Appendix/Resources/Saints and Psychopaths.md",
-    "source/content/8. Appendix/Resources/Books and sources.md",
-    "source/content/8. Appendix/Resources/Mastering the Core Teachings of the Buddha.md",
     "source/content/Images/Pasted image 20260118105416.png",
     "source/content/Images/Pasted image 20260118105354.png",
     "source/content/Images/Pasted image 20260118105254.png",
-    "source/content/0. Start here/Where does consensus-ism come from?.md",
-    "source/content/index.md",
     "source/content/Images/what if my energy flows to the bars.png",
     "source/content/Images/What if it makes me lazy (to follow my genuine desires).md",
     "source/content/Images/ultimate reality.jpg",
@@ -207,7 +207,6 @@
     "source/content/Images/tension = resistance.png",
     "source/content/Images/suppressing yourself.png",
     "source/content/Images/somatic therapist.png",
-    "source/content/Images/sasha visions.png",
     "source/content/Images/MCTB - 4 path.pdf",
     "source/content/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
     "source/content/5. True beliefs/You will always have the info to make the next best action.md",
