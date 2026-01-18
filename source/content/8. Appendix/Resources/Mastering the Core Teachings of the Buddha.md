@@ -1,0 +1,5 @@
+- Very very good book by Daniel Ingram, available for free. Recommend reading the first 50-100 pages at first
+- Some quick excerpts:
+- ![[Pasted image 20260118105254.png]]
+- ![[Pasted image 20260118105354.png]]
+- ![[Pasted image 20260118105416.png]]

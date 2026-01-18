@@ -1,0 +1,4 @@
+- It's essentially streamlined Buddhism 
+- It's very inspired by the Four Path Model of Enlightenment, which I first came across in [[Mastering the Core Teachings of the Buddha]]
+- It's worth saying that *I don't understand it fully yet*. This is an incomplete model, I have not mastered it, I have not figured out all the kinks, etc. I am not Done, essentially
+- See [[Books and sources]] for other books
