@@ -9,6 +9,7 @@
 - ![[rival voices get out the car.png]]
 	- https://twitter.com/nosilverv/status/1774578088141062259
 # new banger!!
+- https://x.com/nosilverv/status/1919001192824217975
 - ![[Pasted image 20251214133250.png]]
 # Guy & [[Michael Stroe]]
 - ![[Pasted image 20251107175601.png]]
